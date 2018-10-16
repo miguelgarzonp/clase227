@@ -1,0 +1,50 @@
+body{
+	background: #0890B4;
+	color: white
+}
+.contenedor-principal{
+	text-align: center;
+}
+
+.cajas{
+		background: #33C5F4;
+		border: 5px solid #333333;
+		margin: 20px 50px 30px 100px;
+
+
+	}
+	.caja {
+		background: #2E67BE;  
+		width: 1000px;
+		height: 140px;
+		margin: 20px 50px 30px 100px;
+		border: 2px solid #333333;
+		text-align: center;
+	}	
+		
+	
+	.caja2{
+		background: #2E67BE;  
+		width: 1000px;
+		height: 100px;
+		margin: 20px 50px 30px 100px;
+		border: 2px solid #333333;
+	}
+	.caja3{
+		background: #2E67BE;  
+		width: 1000px;
+		height: 130px;
+		margin: 20px 50px 30px 100px;
+		border: 2px solid #333333;
+	}
+	.caja4{
+		background: #2E67BE;  
+		width: 1000px;
+		height: 80px;
+		margin: 20px 50px 30px 100px;
+		border: 2px solid #030940;
+		text-align: center;
+	}
+	 .linkedin{
+		text-align: center;
+	}
